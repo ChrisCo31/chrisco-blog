@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/Tesla-espace.png"
+        src="../images/X-Files.png"
         width={50}
         height={50}
         quality={95}
@@ -46,7 +46,6 @@ const Bio = () => {
         <p>
           Sur une idée de <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <br>
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             Follow
           </a>
