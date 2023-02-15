@@ -1,12 +1,12 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Prem's
+date: "2023-02-15T16:07:03.284Z"
+description: "Un premier test pour voir ce que cela donne"
 ---
 
-This is my first post on my new fake blog! How exciting!
-
-I'm sure I'll write a lot more interesting things in the future.
+# Premier essai pour se familiariser avec l'outil
+J'aimerais que ce blog recense des experiences, workshops, projets que je mets en place pour mieux comprendre. Il sera question d'AWS bien sur avec une prédilection spour l'ecosystem Connect et les chatbot mais pas que !
+ J'aimerais également voir s'il est possible d'importer les fiches que j'ecris sur Obsidian directement (ou presque) sur ce blog.
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
@@ -19,7 +19,7 @@ Oh, and here's a great quote from this Wikipedia on
 > salted duck eggs have a briny aroma, a gelatin-like egg white and a
 > firm-textured, round yolk that is bright orange-red in color.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![Major Tom](./Tesla-espace.jpg)
 
 You can also write code blocks here!
 
