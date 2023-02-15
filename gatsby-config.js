@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Chrisco Blog`,
+    title: `Vie secrete des chatbots`,
     author: {
       name: `Chrisco`,
-      summary: `Stay hungry, Stay foolish`,
+      summary: `****`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,

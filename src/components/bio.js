@@ -36,7 +36,7 @@ const Bio = () => {
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/X-Files.png"
+        src="../images/under-construction.png"
         width={50}
         height={50}
         quality={95}
@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Sur une idée de <strong>{author.name}</strong> {author?.summary || null}
+          Sur une idée de <strong>{author.name}</strong> <br></br> {author?.summary || null}
           {` `}
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             Follow

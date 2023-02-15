@@ -1,9 +1,9 @@
 {
-  "name": "Why not Blog",
+  "name": "vie-secrete-des-chatbots",
   "private": true,
-  "description": "Un blog basique pour essayer des trucs",
+  "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Christel Coeur <christelcoeur.pro@gmail.com>",
+  "author": "ChrisCo <christelcoeur.pro@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
